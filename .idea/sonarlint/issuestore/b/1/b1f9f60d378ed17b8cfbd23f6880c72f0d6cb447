@@ -1,6 +1,0 @@
-
-V	java:S125"<This block of commented-out lines of code should be removed.(îÌ¹üÿÿÿÿ
-o
-java:S1158c"YCall the static method Integer.toString(...) instead of instantiating a temporary object.(ð¾ã
-U
-java:S1155">Use isEmpty() to check whether the collection is empty or not.(ƒ·»Â
